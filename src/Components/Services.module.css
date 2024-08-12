@@ -3,11 +3,10 @@
   position: relative;
   align-items: center;
   justify-content: center;
-  margin-top: 10px;
+  
   background-color: var(--color-bg);
 }
 .head h4 {
-  margin-top: 10px;
   margin-bottom: 10px;
   font-size: 47px;
   font-family: "Acme";

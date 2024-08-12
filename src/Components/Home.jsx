@@ -26,6 +26,33 @@ const Home = () => {
           <a className={Styles.contact} href="">
             Join Us Today
           </a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          
         </Slide>
       </div>
       <Slide direction="down" duration="2000">

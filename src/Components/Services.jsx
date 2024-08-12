@@ -19,12 +19,12 @@ const Services = () => {
         <Fade>
         <div className={Styles.first}>
           <img src={Eric} alt="" />
-          <img src={Nana} alt="" />
+          <img src={Frank} alt="" />
         </div>
         <div className={Styles.second}>
-          <img src={Mark} alt="" />
+          <img src={Nana} alt="" />
           <img src={Eben} alt="" />
-          <img src={Frank} alt="" />
+          <img src={Mark} alt="" />
         </div>
         </Fade>
       </div>

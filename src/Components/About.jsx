@@ -19,7 +19,7 @@ const About = () => {
             <p className={Styles.desc}>REFINER'S INTERNATIONAL MISSIONS (RIM - AKUMADAN MISSIONS) <br></br>
             PROPHET NANA AKWASI OWUSU (RIM: GHANA - AFRICA OVERSEER)<br></br>
             +233 24 844 9715 / +233 54 473 0918<br/>
-            Akomadan , Ghana
+            Akumadan , Ghana
             </p>
             
         </div>

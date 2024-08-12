@@ -16,6 +16,7 @@ const Services = () => {
         <div className={Styles.head}>
           <h4>LEADERS</h4>
         </div>
+        <Fade>
         <div className={Styles.first}>
           <img src={Eric} alt="" />
           <img src={Nana} alt="" />
@@ -25,7 +26,9 @@ const Services = () => {
           <img src={Eben} alt="" />
           <img src={Frank} alt="" />
         </div>
+        </Fade>
       </div>
+      
     </section>
   );
 };

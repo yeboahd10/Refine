@@ -8,12 +8,14 @@ import { Slide } from "react-awesome-reveal";
 import CHIL from "../Images/chil.png";
 import CHURCH from "../Images/church.png";
 import OUT from "../Images/out.png";
+import { Zoom } from "react-awesome-reveal";
+import Fade from "react-awesome-reveal";
 
 const Featured = () => {
   return (
     <section className={Styles.Container}>
       
-        
+        <Fade duration={500}>
         <div className={Styles.Box}>
           <img src={CHIL} alt='' width="450px"/>
         </div>
@@ -26,7 +28,7 @@ const Featured = () => {
         <div className={Styles.Box}>
         <img src={OUT} alt='' width="450px"/>
         </div>
-        
+        </Fade>
     </section>
   )
 }

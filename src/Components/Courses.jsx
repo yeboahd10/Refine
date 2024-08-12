@@ -14,7 +14,7 @@ const Courses = () => {
       <div className={Styles.title}>
         
       </div>
-      
+      <Zoom duration={500}>
       <div className={Styles.first}>
         <div className={Styles.Box}>
           <h2>
@@ -53,9 +53,9 @@ const Courses = () => {
           <p>WhatsApp Conference Call- 0244705518</p>
           
         </div>
-          
+        
       </div>
-      
+      </Zoom> 
     </section>
   );
 };

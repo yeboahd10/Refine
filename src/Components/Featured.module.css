@@ -1,5 +1,6 @@
 .Container{
     display: flex;
+    flex-wrap: wrap;
     position: relative;
     align-items: center;
     background-color: var(--color-bg);

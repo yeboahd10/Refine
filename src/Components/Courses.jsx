@@ -29,7 +29,7 @@ const Courses = () => {
         </div>
         <div className={Styles.Box}>
           <h2>
-            RIM AKOMADAN 
+            RIM AKUMADAN 
             <br/>
             MISSIONS
           </h2>

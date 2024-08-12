@@ -22,11 +22,7 @@ const Home = () => {
             community.<br/><br/> Warm regards, The RIM Family
           </p>
         </Slide>
-        <Slide direction="up" duration="2000">
-          <a className={Styles.contact} href="">
-            Join Us Today
-          </a>
-        </Slide>
+        
       </div>
       <Slide direction="down" duration="2000">
         <img src={LOG} alt="Picture" className={Styles.image} />

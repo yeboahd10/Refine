@@ -52,11 +52,11 @@
         align-items: flex-start;
     }
     .title{
-        font-size: 28px;
-        margin-bottom: 10px;
+        font-size: 24px;
+        margin-bottom: 5px;
     }
     .image{
-        width: 260px;
+        width: 240px;
     }
     .desc{
         font-size: 15px;

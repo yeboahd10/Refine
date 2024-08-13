@@ -9,6 +9,7 @@ import CHIL from "../Images/chil.png";
 import CHURCH from "../Images/church.png";
 import OUT from "../Images/out.png";
 import PROG from "../Images/apos.png";
+import IVAS from "../Images/invas.png";
 import { Zoom } from "react-awesome-reveal";
 import Fade from "react-awesome-reveal";
 
@@ -31,6 +32,9 @@ const Featured = () => {
         </div>
         <div className={Styles.Box}>
         <img src={PROG} alt='' width="450px"/>
+        </div>
+        <div className={Styles.Box}>
+        <img src={IVAS} alt='' width="450px"/>
         </div>
         </Fade>
     </section>

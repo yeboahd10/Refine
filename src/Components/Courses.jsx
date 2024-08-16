@@ -18,9 +18,9 @@ const Courses = () => {
       <div className={Styles.first}>
         <div className={Styles.Box}>
           <h2>
-            RIM SANTASI MISSIONS
+            RIM SANTASI 
             <br />
-            (HEADQUATERS)
+            (MISSIONS)
           </h2>
           <FaMapLocation color="Red" size={50} />
           <p>SANTASI M/A BASIC SCHOOL</p>

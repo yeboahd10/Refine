@@ -21,6 +21,12 @@ const About = () => {
             +233 24 844 9715 / +233 54 473 0918<br/>
             Akumadan , Ghana
             </p>
+            <br/><br/>
+            <p className={Styles.desc}>REFINER'S INTERNATIONAL MISSIONS (RIM - UK MISSIONS) <br></br>
+            REV FRANK ACHEAMPONG (RIM: UK - EUROPE OVERSEER)<br></br>
+            +447507253071<br/>
+            UK, EUROPE
+            </p>
             
         </div>
         

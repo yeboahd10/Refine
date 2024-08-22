@@ -24,7 +24,7 @@ const Services = () => {
         <div className={Styles.second}>
           <img src={Nana} alt="" />
           <img src={Eben} alt="" />
-          <img src={Mark} alt="" />
+          
         </div>
         </Fade>
       </div>
